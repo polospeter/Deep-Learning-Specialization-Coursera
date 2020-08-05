@@ -1,1 +1,1 @@
-This repository contains for all my solutions for the Deep Learning specialization on Coursera.
+This repository contains all my solutions for the Deep Learning specialization on Coursera.
