@@ -10,6 +10,7 @@ Course 2. Improving Deep Neural Networks Hyperparameter tuning, Regularization a
 Week1 - Practical aspects of Deep Learning - Setting up your Machine Learning Application - Regularizing your neural network - Setting up your optimization problem
 Week2 - Optimization algorithms
 Week3 - Hyperparameter tuning, Batch Normalization and Programming Frameworks
+
 Course 3. Structuring Machine Learning Projects
 Week1 - Introduction to ML Strategy - Setting up your goal - Comparing to human-level performance
 Week2 - ML Strategy (2) - Error Analysis - Mismatched training and dev/test set - Learning from multiple tasks - End-to-end deep learning
