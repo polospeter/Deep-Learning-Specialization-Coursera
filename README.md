@@ -13,10 +13,12 @@ In this course, you will learn the foundations of deep learning. When you finish
 
 This course also teaches you how Deep Learning actually works, rather than presenting only a cursory or surface-level description. So after completing it, you will be able to apply deep learning to a your own applications. If you are looking for a job in AI, after this course you will also be able to answer basic interview questions. 
 
+Coding assignments: 
+
 - [Week 1 - Introduction to deep learning]()  
-- [Week2 - Neural Networks Basics]() 
-- [Week3 - Shallow neural networks]()
-- [Week4 - Deep Neural Networks]()
+- [Week 2 - Neural Networks Basics]() 
+- [Week 3 - Shallow neural networks]()
+- [Week 4 - Deep Neural Networks]()
 
 ### Course 2: Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
 After the course, you will: 
@@ -26,9 +28,11 @@ After the course, you will:
 - Understand new best-practices for the deep learning era of how to set up train/dev/test sets and analyze bias/variance
 - Be able to implement a neural network in TensorFlow. 
 
-- [Week1 - Practical aspects of Deep Learning - Setting up your Machine Learning Application - Regularizing your neural network - Setting up your optimization problem]()  
-- [Week2 - Optimization algorithms]()  
-- [Week3 - Hyperparameter tuning, Batch Normalization and Programming Frameworks]()  
+Coding assignments: 
+
+- [Week 1 - Practical aspects of Deep Learning - Setting up your Machine Learning Application - Regularizing your neural network - Setting up your optimization problem]()  
+- [Week 2 - Optimization algorithms]()  
+- [Week 3 - Hyperparameter tuning, Batch Normalization and Programming Frameworks]()  
 
 ### Course 3: Structuring Machine Learning Projects
 After the course, you will: 
@@ -37,21 +41,35 @@ After the course, you will:
 - Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance
 - Know how to apply end-to-end learning, transfer learning, and multi-task learning
 
+Coding assignments: 
 
-- [Week1 - Introduction to ML Strategy - Setting up your goal - Comparing to human-level performance]()  
-- [Week2 - ML Strategy (2) - Error Analysis - Mismatched training and dev/test set - Learning from multiple tasks - End-to-end deep learning]()  
+- [Week 1 - Introduction to ML Strategy - Setting up your goal - Comparing to human-level performance]()  
+- [Week 2 - ML Strategy (2) - Error Analysis - Mismatched training and dev/test set - Learning from multiple tasks - End-to-end deep learning]()  
 
 ### Course 4: Convolutional Neural Networks
 After this course, you will: 
 
-- [Week1 - Foundations of Convolutional Neural Networks]()  
-- [Week2 - Deep convolutional models: case studies - Papers for read: ImageNet Classification with Deep Convolutional Neural Networks, Very Deep Convolutional Networks For Large-
+- Understand how to build a convolutional neural network, including recent variations such as residual networks.
+- Know how to apply convolutional networks to visual detection and recognition tasks.
+- Know to use neural style transfer to generate art.
+- Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
+
+Coding assignments: 
+
+- [Week 1 - Foundations of Convolutional Neural Networks]()  
+- [Week 2 - Deep convolutional models: case studies - Papers for read: ImageNet Classification with Deep Convolutional Neural Networks, Very Deep Convolutional Networks For Large-
 Scale Image Recognition]()  
-- [Week3 - Object detection - Papers for read: You Only Look Once: Unified, Real-Time Object Detection, YOLO]()  
-- [Week4 - Special applications: Face recognition & Neural style transfer - Papers for read: DeepFace, FaceNet]()  
+- [Week 3 - Object detection - Papers for read: You Only Look Once: Unified, Real-Time Object Detection, YOLO]()  
+- [Week 4 - Special applications: Face recognition & Neural style transfer - Papers for read: DeepFace, FaceNet]()  
 
 ### Course 5: Sequence Models
 After this course, you will:
+
+- Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
+- Be able to apply sequence models to natural language problems, including text synthesis. 
+- Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
+
+<ins>Coding assignments:</ins>  
 
 - [Week1 - Recurrent Neural Networks]()  
 - [Week2 - Natural Language Processing & Word Embeddings]()  
