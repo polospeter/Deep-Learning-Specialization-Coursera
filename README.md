@@ -1,6 +1,8 @@
+# Deep Learning Specialization
+
 This repository contains all my solutions for the Deep Learning specialization on Coursera provided by DeepLearning.ai. The instructor of this specializationwas the brilliant Andrew Ng, and here you find a link to the website.
 
-Course 1. Neural Networks and Deep Learning  
+### Course 1: Neural Networks and Deep Learning  
 Week1 - Introduction to deep learning  
 Week2 - Neural Networks Basics  
 Week3 - Shallow neural networks  
