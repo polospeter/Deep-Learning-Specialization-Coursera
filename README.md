@@ -15,8 +15,8 @@ This course also teaches you how Deep Learning actually works, rather than prese
 
 - [Week 1 - Introduction to deep learning]()  
 - [Week2 - Neural Networks Basics]() 
-Week3 - Shallow neural networks  
-Week4 - Deep Neural Networks  
+- [Week3 - Shallow neural networks]()
+- [Week4 - Deep Neural Networks]
 
 ### Course 2: Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
 After 3 weeks, you will: 
