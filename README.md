@@ -15,9 +15,9 @@ In this course, you will learn the foundations of deep learning. When you finish
 <ins>Coding assignments:</ins>   
 
 - [Week 1 - Introduction to deep learning]()  
-- [Week 2 - Neural Networks Basics]() 
-- [Week 3 - Shallow neural networks]()
-- [Week 4 - Deep Neural Networks]()
+- [Week 2 - Neural Networks Basics](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Neural-networks/Week%202/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb) 
+- [Week 3 - Shallow neural networks](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Neural-networks/Week%203/Planar%20data%20classification%20with%20one%20hidden%20layer/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
+- [Week 4 - Deep Neural Networks](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Neural-networks/Week%204/Deep%20Neural%20Network%20Application_%20Image%20Classification/Deep%20Neural%20Network%20-%20Application%20v8.ipynb)
 
 ### Course 2: Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
 After the course, you will: 
