@@ -72,4 +72,4 @@ After this course, you will:
 
 - [Week 1 - Recurrent Neural Networks]()  
 - [Week 2 - Natural Language Processing & Word Embeddings]()  
-- [Week 3 - Sequence models & Attention mechanism]()  
+- [Week 3 - Sequence models & Attention mechanism, Neural Machine translation](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Sequence-models/Week%203/Machine%20Translation/Neural%20machine%20translation%20with%20attention%20-%20v4.ipynb)  
