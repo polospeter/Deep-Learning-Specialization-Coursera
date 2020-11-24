@@ -58,8 +58,8 @@ After this course, you will:
 - [Week 1 - Foundations of Convolutional Neural Networks]()  
 - [Week 2 - Deep convolutional models: case studies - Papers for read: ImageNet Classification with Deep Convolutional Neural Networks, Very Deep Convolutional Networks For Large-
 Scale Image Recognition]()  
-- [Week 3 - Object detection - Papers for read: You Only Look Once: Unified, Real-Time Object Detection, YOLO]()  
-- [Week 4 - Special applications: Face recognition & Neural style transfer - Papers for read: DeepFace, FaceNet]()  
+- [Week 3 - Object detection - Papers for read: You Only Look Once: Unified, Real-Time Object Detection, YOLO](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Convolutional-networks/week3/Car%20detection%20for%20Autonomous%20Driving/Autonomous_driving_application_Car_detection_v3a.ipynb)  
+- [Week 4 - Special applications: Face recognition & Neural style transfer - Papers for read: DeepFace, FaceNet](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Convolutional-networks/week4/Face%20Recognition/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.ipynb)  
 
 ### Course 5: Sequence Models
 After this course, you will:
