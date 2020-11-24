@@ -59,8 +59,8 @@ After this course, you will:
 - [Week 2 - Deep convolutional models: case studies - Papers for read: ImageNet Classification with Deep Convolutional Neural Networks, Very Deep Convolutional Networks For Large-
 Scale Image Recognition]()  
 - [Week 3 - Object detection - Papers for read: You Only Look Once: Unified, Real-Time Object Detection, YOLO](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Convolutional-networks/week3/Car%20detection%20for%20Autonomous%20Driving/Autonomous_driving_application_Car_detection_v3a.ipynb)  
-- [Week 4A - Special applications: Face recognition](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Convolutional-networks/week4/Face%20Recognition/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.ipynb)
-- [Week 4B - Special applications: Neural style transfer - Papers for read: DeepFace, FaceNet](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Convolutional-networks/week4/Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
+- [Week 4.1 - Special applications: Face recognition](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Convolutional-networks/week4/Face%20Recognition/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.ipynb)
+- [Week 4.2 - Special applications: Neural style transfer - Papers for read: DeepFace, FaceNet](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Convolutional-networks/week4/Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
 
 ### Course 5: Sequence Models
 After this course, you will:
@@ -73,5 +73,5 @@ After this course, you will:
 
 - [Week 1 - Recurrent Neural Networks]()  
 - [Week 2 - Natural Language Processing & Word Embeddings](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Sequence-models/Week%203/Trigger%20word%20detection/Trigger_word_detection_v1a.ipynb)  
-- [Week 3A - Sequence models & Neural Machine translation](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Sequence-models/Week%203/Machine%20Translation/Neural%20machine%20translation%20with%20attention%20-%20v4.ipynb) 
-[Week 3B-Trigger Word detection](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Sequence-models/Week%203/Trigger%20word%20detection/Trigger_word_detection_v1a.ipynb)
+- [Week 3.1 - Sequence models & Neural Machine translation](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Sequence-models/Week%203/Machine%20Translation/Neural%20machine%20translation%20with%20attention%20-%20v4.ipynb) 
+[Week 3.2-Trigger Word detection](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Sequence-models/Week%203/Trigger%20word%20detection/Trigger_word_detection_v1a.ipynb)
