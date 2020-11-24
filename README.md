@@ -29,9 +29,9 @@ After the course, you will:
 
 <ins>Coding assignments:</ins>   
 
-- [Week 1 - Practical aspects of Deep Learning - Setting up your Machine Learning Application - Regularizing your neural network - Setting up your optimization problem]()  
-- [Week 2 - Optimization algorithms]()  
-- [Week 3 - Hyperparameter tuning, Batch Normalization and Programming Frameworks]()  
+- [Week 1 - Practical aspects of Deep Learning - Setting up your Machine Learning Application - Regularizing your neural network - Setting up your optimization problem](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/tree/master/Hyperparameter-tuning/week5)  
+- [Week 2 - Optimization algorithms](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Hyperparameter-tuning/week6/Optimization_methods_v1b.ipynb) 
+- [Week 3 - Hyperparameter tuning, Batch Normalization and Programming Frameworks](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Hyperparameter-tuning/week7/Tensorflow%20Tutorial%20v3a.ipynb)  
 
 ### Course 3: Structuring Machine Learning Projects
 After the course, you will: 
@@ -70,7 +70,7 @@ After this course, you will:
 
 <ins>Coding assignments:</ins>  
 
-- [Week 1 - Recurrent Neural Networks]()  
+- [Week 1 - Recurrent Neural Networks](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Sequence-models/Week%201/Building%20a%20Recurrent%20Neural%20Network/Building_a_Recurrent_Neural_Network_Step_by_Step_v3a.ipynb)  
 - [Week 2 - Natural Language Processing & Word Embeddings](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Sequence-models/Week%203/Trigger%20word%20detection/Trigger_word_detection_v1a.ipynb)  
 - [Week 3.1 - Sequence models & Neural Machine translation](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Sequence-models/Week%203/Machine%20Translation/Neural%20machine%20translation%20with%20attention%20-%20v4.ipynb) 
 - [Week 3.2 - Trigger Word detection](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Sequence-models/Week%203/Trigger%20word%20detection/Trigger_word_detection_v1a.ipynb)
