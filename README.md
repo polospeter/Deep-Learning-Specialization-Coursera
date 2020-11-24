@@ -55,9 +55,8 @@ After this course, you will:
 
 <ins>Coding assignments:</ins>  
 
-- [Week 1 - Foundations of Convolutional Neural Networks]()  
-- [Week 2 - Deep convolutional models: case studies - Papers for read: ImageNet Classification with Deep Convolutional Neural Networks, Very Deep Convolutional Networks For Large-
-Scale Image Recognition]()  
+- [Week 1 - Foundations of Convolutional Neural Networks](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Convolutional-networks/week1/Convolution%20model%20-%20Step%20by%20Step%20-%20v2.ipynb)  
+- [Week 2 - Deep convolutional models: case studies - Papers for read: ImageNet Classification with Deep Convolutional Neural Networks, Very Deep Convolutional Networks For Large-Scale Image Recognition](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Convolutional-networks/week2/ResNets/Residual_Networks_v2a.ipynb) 
 - [Week 3 - Object detection - Papers for read: You Only Look Once: Unified, Real-Time Object Detection, YOLO](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Convolutional-networks/week3/Car%20detection%20for%20Autonomous%20Driving/Autonomous_driving_application_Car_detection_v3a.ipynb)  
 - [Week 4.1 - Special applications: Face recognition](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Convolutional-networks/week4/Face%20Recognition/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.ipynb)
 - [Week 4.2 - Special applications: Neural style transfer - Papers for read: DeepFace, FaceNet](https://github.com/polospeter/Deep-Learning-Specialization-Coursera/blob/master/Convolutional-networks/week4/Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
