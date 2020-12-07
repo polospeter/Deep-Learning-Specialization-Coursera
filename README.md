@@ -2,7 +2,7 @@
 
 This repository contains all my solutions for the Deep Learning specialization on Coursera provided by DeepLearning.ai. The instructor of this specialization was the brilliant Andrew Ng.
 
-**My Certification** : https://www.coursera.org/account/accomplishments/specialization/certificate/KF38BTHQF8QJ
+**My Certification** : https://www.coursera.org/account/accomplishments/specialization/certificate/KF38BTHQF8QJ  
 
 ### Course 1: Neural Networks and Deep Learning  
 In this course, you will learn the foundations of deep learning. When you finish this class, you will:
