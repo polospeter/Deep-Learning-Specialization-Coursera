@@ -1,6 +1,6 @@
 # Deep Learning Specialization
 
-This repository contains all my solutions for the Deep Learning specialization on Coursera provided by DeepLearning.ai. The instructor of this specialization was the brilliant Andrew Ng. Link to the course: https://www.coursera.org/specializations/deep-learning?
+This repository contains all my solutions for the Deep Learning specialization on Coursera provided by DeepLearning.ai. The instructor of this specialization was the brilliant Andrew Ng. Link to the specialization: https://www.coursera.org/specializations/deep-learning?
 
 **My Certification** : https://www.coursera.org/account/accomplishments/specialization/certificate/KF38BTHQF8QJ  
 
